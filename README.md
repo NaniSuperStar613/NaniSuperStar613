@@ -50,7 +50,6 @@ If you're stuck on a bug, here's some advice from my desk ducks:
 
 ---
 
-
 ### 📫 How to Reach me!
   email: nromero@uplifttech.org
 ---
