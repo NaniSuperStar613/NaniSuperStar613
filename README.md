@@ -51,13 +51,13 @@ If you're stuck on a bug, here's some advice from my desk ducks:
 ---
 
 ### 📫 How to Reach me!
-
+  email: nromero@uplifttech.org
 ---
 
 ### 😄 Pronouns
+
 she/her
 ---
 
 ### ⚡ Fun fact:
-
--->
+   - I love every animal!
